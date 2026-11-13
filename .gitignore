@@ -1,0 +1,9 @@
+# raw downloads and the generated DIAMOnD port are recreated by
+# scripts/01_download_data.py, so they are not committed
+data/
+__pycache__/
+*.pyc
+.DS_Store
+
+# local Python environment
+.venv/
